@@ -1,0 +1,72 @@
+@media screen and (max-width: 600px) {
+	.headnavi-box nav ul li a {
+		display: none;
+	}
+
+	.sales-button a {
+		display: none;
+	}
+
+
+	.eams-chair-top {
+		height: 300px;
+	}
+	
+	.eams-chair-top .img-box {
+		margin-top: 6%;
+	}
+
+	.checkpoints {
+		background-position: center;
+	}
+	
+	
+	.point-outline {
+		width: 70%;
+		padding: 5%;
+	}
+	
+	.point-box .text-box p:nth-child(1) {
+		font-size: 0.5em;
+	}
+	
+	.point-box .img-box {
+		margin: 20%;
+	}
+	
+	.point-box .img-box img {
+		margin-top: 60%;
+	}
+	
+	.case-outbox1 .text-box {
+		width: 60%;
+		font-size: 0.2em;
+	}
+	
+	.case-outbox1 img {
+		box-shadow: 400px 50px 0 #fff;
+	}
+	
+	.case-outbox2 {
+		font-size: 0.2em;
+		margin-top: 20%;
+	}
+	
+	.sales-talk {
+		margin-top: 20%;
+	}
+	
+	.sales-talk .text-box {
+		font-size: ;
+	}
+	
+	.button-box a:nth-child(1) {
+		padding: 0;
+		margin-right: 100px;;
+	}
+	
+	.button-box a:nth-child(2) {
+		padding: 0;
+	}
+
+}
