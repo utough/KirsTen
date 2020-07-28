@@ -56,17 +56,38 @@
 		margin-top: 20%;
 	}
 	
-	.sales-talk .text-box {
-		font-size: ;
+	.br::before {
+		content: "\A";
+		white-space: pre;
+	}
+	
+	.button-box {
+		display: flex;
+		box-sizing: border-box;
+	}
+	
+	.button-box a {
+		padding: 0;
+		text-align: center;
+		height: 30%;
+		box-sizing: border-box;
 	}
 	
 	.button-box a:nth-child(1) {
-		padding: 0;
-		margin-right: 100px;;
+		
 	}
 	
-	.button-box a:nth-child(2) {
-		padding: 0;
+	.button-box a:nth-child(1) .hide {
+		display: none;
+	}
+
+	.news-box ul li {
+		width: 100%;
+	} 
+	
+	.icon-box {
+		display: flex;
+		margin-left: -40%;
 	}
 
 }
